@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktestapp=self.webpackChunktestapp||[]).push([[71083],{71083:(e,l,p)=>{p.r(l),p.d(l,{default:()=>t});const t={point:e=>"point"===e.type?e:"polygon"===e.type||"polyline"===e.type?e.extent?.center??null:null,polygon:e=>"polygon"===e.type?e:null,polyline:e=>"polyline"===e.type?e:null}}}]);
+//# sourceMappingURL=71083.b49b4d98.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktestapp=self.webpackChunktestapp||[]).push([[32086],{32086:(e,s,t)=>{t.r(s),t.d(s,{default:()=>r});var i=t(35143),a=t(69098),p=t(42553),l=t(46053),n=(t(81806),t(76460),t(47249),t(85842));let o=class extends(a.A.ClonableMixin(p.A)){constructor(e){super(e),this.mode="visible"}};(0,i._)([(0,l.MZ)({type:["hidden","visible"],json:{write:!0}})],o.prototype,"mode",void 0),o=(0,i._)([(0,n.$)("esri.linkChart.NonspatialDataDisplay")],o);const r=o}}]);
+//# sourceMappingURL=32086.8dbb6be4.chunk.js.map

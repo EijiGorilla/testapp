@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktestapp=self.webpackChunktestapp||[]).push([[35238],{35238:(e,t,a)=>{a.r(t),a.d(t,{Extent:()=>o,Multipoint:()=>s,Point:()=>i,Polygon:()=>c,Polyline:()=>r,SpatialReference:()=>k,__exported__:()=>_});var l=a(76797),u=a(66388),n=a(19247),f=a(65215),p=a(23701),d=a(13312);const o=l.default,s=u.default,i=n.default,c=f.default,r=p.default,k=d.default;function _(){}}}]);
+//# sourceMappingURL=35238.571cff8c.chunk.js.map

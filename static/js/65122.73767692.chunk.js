@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktestapp=self.webpackChunktestapp||[]).push([[65122],{65122:(e,t,p)=>{p.r(t),p.d(t,{default:()=>h});var r=p(35143),s=p(91967),u=p(46053),a=(p(81806),p(76460),p(47249),p(85842));let o=class extends s.default{constructor(e){super(e),this.openCypherQuery=""}};(0,r._)([(0,u.MZ)()],o.prototype,"openCypherQuery",void 0),o=(0,r._)([(0,a.$)("esri.rest.knowledgeGraph.GraphQuery")],o);const h=o}}]);
+//# sourceMappingURL=65122.73767692.chunk.js.map

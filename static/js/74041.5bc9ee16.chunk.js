@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktestapp=self.webpackChunktestapp||[]).push([[74041],{74041:(t,n,e)=>{e.r(n),e.d(n,{extractRegion:()=>c,getCountry:()=>s,global:()=>u});var r=e(30873);const u="Global";function c(t){if(function(t){return 0===(0,r.a)(t).countries.length}(t))return u;const n=t.indexOf("/");return-1===n?t:t.slice(0,n)}function s(t){return(0,r.g)(t)?.id??t}}}]);
+//# sourceMappingURL=74041.5bc9ee16.chunk.js.map
